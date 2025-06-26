@@ -7,3 +7,5 @@ Este proyecto documenta y analiza el funcionamiento interno de la pantalla HMI O
 ## Identificacion de los pines I/0 del P89V51RD2
 ### Modulo grafico ERM19264-1
 ![Esquema OP320A](img/conexion_lcd.png)
+### Teclado matricial 5x4
+![Esquema OP320A](img/teclado5x4.png)
