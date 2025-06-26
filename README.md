@@ -9,3 +9,5 @@ Este proyecto documenta y analiza el funcionamiento interno de la pantalla HMI O
 ![Esquema OP320A](img/conexion_lcd.png)
 ### Teclado matricial 5x4
 ![Esquema OP320A](img/teclado5x4.png)
+### Comunicacion serial SP232
+![Esquema OP320A](img/SP232.png)
