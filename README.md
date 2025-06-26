@@ -5,4 +5,5 @@ Este proyecto documenta y analiza el funcionamiento interno de la pantalla HMI O
 ![Esquema OP320A](img/op320a.png)
 ![Esquema OP320A](img/circuito.jpg)
 ## Modulo grafico ERM19264-1
+### Modulo grafico ERM19264-1
 ![Esquema OP320A](img/conexion_lcd.png)
