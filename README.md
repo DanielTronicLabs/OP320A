@@ -4,4 +4,5 @@ Este proyecto documenta y analiza el funcionamiento interno de la pantalla HMI O
 
 ![Esquema OP320A](img/op320a.png)
 ![Esquema OP320A](img/circuito.jpg)
+## Programacion
 ![Esquema OP320A](img/conexion_lcd.png)
